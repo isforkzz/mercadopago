@@ -1,6 +1,6 @@
 {
-  "name": "mercadopago-client",
-  "version": "1.0.0",
+  "name": "@forkzz/mercadopago",
+  "version": "1.0.12",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
