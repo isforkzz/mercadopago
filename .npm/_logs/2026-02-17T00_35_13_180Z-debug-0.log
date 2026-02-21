@@ -1,0 +1,14 @@
+0 verbose cli /usr/bin/node /home/.nvm/versions/node/v20.20.0/lib/node_modules/npm/bin/npm-cli.js
+1 info using npm@10.8.2
+2 info using node@v24.13.0
+3 silly config load:file:/home/.nvm/versions/node/v20.20.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/lib/.npmrc
+5 silly config load:file:/home/.npmrc
+6 silly config load:file:/usr/etc/npmrc
+7 verbose title npm exec tsc --init
+8 verbose argv "exec" "--" "tsc" "--init"
+9 verbose logfile logs-max:10 dir:/home/.npm/_logs/2026-02-17T00_35_13_180Z-
+10 verbose logfile /home/.npm/_logs/2026-02-17T00_35_13_180Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 silly packumentCache heap:1174405120 maxSize:293601280 maxEntrySize:146800640

@@ -1,0 +1,11 @@
+0 verbose cli /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/usr/bin/npm
+1 info using npm@11.6.2
+2 info using node@v24.13.0
+3 silly config load:file:/data/data/com.termux/files/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/data/data/com.termux/files/home/.local/share/nvim/mason/staging/typescript-language-server/.npmrc
+5 silly config load:file:/data/data/com.termux/files/home/.npmrc
+6 silly config load:file:/data/data/com.termux/files/home/.npm-global/etc/npmrc
+7 verbose title npm init
+8 verbose argv "init" "--yes" "--scope" "mason"
+9 verbose logfile logs-max:10 dir:/data/data/com.termux/files/home/.npm/_logs/2026-02-15T17_54_47_499Z-
+10 verbose logfile /data/data/com.termux/files/home/.npm/_logs/2026-02-15T17_54_47_499Z-debug-0.log
